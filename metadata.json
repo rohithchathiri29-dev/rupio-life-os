@@ -1,0 +1,6 @@
+{
+  "name": "Rupio",
+  "description": "Rupio Life OS — A premium personal finance, health tracking, habit building, addiction recovery, and productivity optimizer integrated with server-side AI advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
